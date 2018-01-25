@@ -1,0 +1,20 @@
+.test {
+    margin: auto;
+}
+
+.login-border-box{
+  padding: 20px 30px; /*상하 좌우*/
+  border: 3px solid #98DFD8;
+  border-radius: 10px;
+}
+
+.login-header-title {
+  font-family: 'wiggle-hangeul';
+  color: #161616;
+}
+
+.btn-color-change{
+  width: 100%;
+  background-color: #98DFD8;
+  border: 3px solid #98DFD8;
+}
